@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/3090078.jpg");
+    no-repeat center center;
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nabla', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Playfair Display', serif;
+    /* font-family: 'Poppins', sans-serif; */
+
+}
+div{
+    background-color: #ffa31a;
+    border-radius: 25px;
+    width: 60%;
+    margin: 0 auto;
+    margin-left: 30px;
+    margin-top: 100px;
+    text-align: center;
+}p{
+    font-size: 1.8em;
+    font-weight: bolder
+}
+button{
+   font-size: 1.8em;
+   font-weight: 500;
+background: black;
+color: #ffa31a;
+margin-bottom: 10px;
+cursor: pointer
+}
+h1{
+    font-size: 4em;
+}
+h1,p,button{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Fuzzy Bubbles', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nabla', cursive;
+font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+}
